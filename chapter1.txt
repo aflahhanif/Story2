@@ -1,1 +1,1 @@
-This is the first chapter.
+This is the first chapter. This file contains the story from the first chapter.
